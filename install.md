@@ -2,9 +2,6 @@
 ## Installation 
 ### Windows install
 
-!!!FIREWALL
-!!! Netzwerk muss auf privat stehen
-
 1. Python
     Über microsoft store: Python 3.13
 2. Visual Studio Code
@@ -14,6 +11,13 @@
 4. Djitellopy
     In Terminal: `pip install djitellopy`
 5. PlatformIo Extension
+
+### Drohen vorbereiten
+1. Die [Tello App](https://www.dji.com/de/downloads/djiapp/tello) installieren.
+2. Die Drohne einschalten
+3. Das Smartphone mit dem wlan der Drohne verbinden.
+4. Die App öffnen um die Drohen zu aktivieren.
+
 
 ## Projekt strukture
 -Workspace Folder
