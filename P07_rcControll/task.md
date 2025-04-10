@@ -16,5 +16,5 @@
 - listener = Listener(on_press=<ON_PRESS_FUNCTION>, on_release=<ON_RELEASE_FUNCTION>)
 - listener.start()
 
-## Hinweiß
+## Hinweis
 Damit diese Aufgabe funkitoniert, kann es sein, dass die Bibliothek `pynput` noch mit `pip install pynput` installiert werden muss.
